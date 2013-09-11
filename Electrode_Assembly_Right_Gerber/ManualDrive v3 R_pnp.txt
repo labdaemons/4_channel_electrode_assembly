@@ -1,0 +1,25 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=ManualDrive v3 R
+*Date=01:17:10
+*CreatedBy=Fritzing 0.8.3b.07.27.048f
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;;5.79642;-5.66508;0;Top;Pad3
+2;;;2.28669;-4.75;0;Bottom;TXT2
+3;;;0.849109;-0.881178;0;Bottom;Pad7
+4;;;5.80037;-6.86029;0;Top;Pad2
+5;;;5.79331;-8.03772;0;Top;Pad1
+6;;;3.3782;-5.4694;0;Bottom;Copper Fill1
+7;;THT;3.46512;-0.763344;90;Bottom;J15
+8;;THT;3.46117;-1.9165;90;Bottom;J14
+9;;;5.78908;-4.45068;0;Top;Pad6
+10;;;5.44802;-7.23075;0;Bottom;TXT1
