@@ -4,7 +4,7 @@
 *eMail=
 *
 *Project=ManualDrive v3
-*Date=01:19:04
+*Date=20:31:55
 *CreatedBy=Fritzing 0.8.3b.07.27.048f
 *
 *
@@ -13,13 +13,13 @@
 *Rotation in degree (0-360, math. pos.)
 *
 *No;Value;Package;X;Y;Rotation;Side;Name
-1;;;1.22752;-6.86029;0;Top;Pad2
-2;;THT;3.46117;-1.9165;90;Bottom;J14
-3;;;1.22357;-5.66508;0;Top;Pad3
-4;;;3.855;-3.98236;0;Bottom;TXT2
-5;;;6.06401;-0.881178;0;Bottom;Pad7
-6;;;1.21623;-4.45068;0;Top;Pad6
-7;;;5.44802;-7.23075;0;Bottom;TXT1
-8;;THT;3.4702;-0.696176;90;Bottom;J15
-9;;;3.3782;-5.4694;0;Bottom;Copper Fill1
-10;;;1.22046;-8.03772;0;Top;Pad1
+1;;;6.08838;-0.881178;0;Bottom;Pad7
+2;;;1.17027;-5.64071;0;Top;Pad3
+3;;;1.16293;-4.42631;0;Top;Pad6
+4;;THT;3.46117;-1.96981;90;Bottom;J14
+5;;;5.44802;-7.23075;0;Bottom;TXT1
+6;;;3.855;-3.98236;0;Bottom;TXT2
+7;;;3.3274;-5.1138;0;Bottom;Copper Fill1
+8;;;1.17422;-6.83592;0;Top;Pad2
+9;;;1.16716;-8.01335;0;Top;Pad1
+10;;THT;3.4702;-0.696176;90;Bottom;J15
